@@ -1,4 +1,4 @@
-package com.json;
+package fw.json;
 
 public class JSONParser {
 

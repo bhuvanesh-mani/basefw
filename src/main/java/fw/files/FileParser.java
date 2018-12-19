@@ -1,4 +1,4 @@
-package com.files;
+package fw.files;
 
 public class FileParser {
 

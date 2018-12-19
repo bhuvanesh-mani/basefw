@@ -1,4 +1,4 @@
-package com.xml;
+package fw.xml;
 
 public class XMLParser {
 

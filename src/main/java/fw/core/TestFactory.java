@@ -1,4 +1,4 @@
-package com.core;
+package fw.core;
 
 public class TestFactory {
 
